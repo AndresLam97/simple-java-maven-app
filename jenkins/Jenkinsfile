@@ -22,5 +22,6 @@ pipeline {
                 echo 'Job Completed'
             }
         }
-    }
+    }.....
+}
 }
